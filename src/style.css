@@ -1,0 +1,11 @@
+body {
+  background-color: deeppink;
+  text-align: center;
+  color: aliceblue;
+  overflow: hidden;
+}
+
+.sobreBarbie {
+  font-family: 'Dancing Script';
+  font-size: 26px;
+}
